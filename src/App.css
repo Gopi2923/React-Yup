@@ -11,3 +11,7 @@ form {
 form label {
    margin-right: 10px;
 }
+
+.error {
+  color: red;
+}
